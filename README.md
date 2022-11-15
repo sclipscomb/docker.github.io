@@ -21,3 +21,4 @@ Hello! This is my walkthrough for installing OpenVAS on Docker.
 5. Final step was to access the wordpress through a web interface (which my subsystem lacks). I simply returned to the Windows desktop, opened Firefox, and pulled
    up my wordpress online by searching for "http://localhost:8080". Afterwards, I set up the rest of the website and I was good to go!
    
+![SSH SC](docs/assets/Log_Pa.JPG)
